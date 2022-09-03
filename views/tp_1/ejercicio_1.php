@@ -14,7 +14,7 @@ include_once("../common/sidebar_menu.php");
                 Ingrese un numero!
         </div>
         <div class="valid-feedback">
-                Correcto!
+                正しい!
         </div>
     </div>       
     <div class="mb-3">
