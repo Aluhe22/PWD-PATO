@@ -45,7 +45,7 @@ include_once("../common/sidebar_menu.php");
             <button type="submit" class="btn btn-success mx-auto w-100">Login</button>
           </div>
       </form>
-      <script src="../assets/js/tp1/ejercicio_3.js"></script>
+      <script src="../assets/js/tp2/ejercicio_3.js"></script>
     </div>
   </div>
 </div>
