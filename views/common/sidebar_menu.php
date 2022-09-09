@@ -29,7 +29,7 @@
       <ul class="navbar-nav">
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Trabajo Practicoo 1   
+            Trabajo Practico 1   
           </a>
           <ul class="dropdown-menu">
             <li><a class="dropdown-item" href="../tp_1/ejercicio_1.php">Ejercicio 1</a></li>
